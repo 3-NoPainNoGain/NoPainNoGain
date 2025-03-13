@@ -1,12 +1,20 @@
 # NoPainNoGain팀 그라운드 룰 
 
-### 팀원
+### 📍팀의 컨셉
+> 고난과 역경에도 웃음과 화합으로 대처하는 긍정긍정걸즈
 
-- 구혜준 Backend, AI
-- 이하은 Frontend
-- 최수희  Backend, AI
+</br>
 
-### 회의
+### 👩‍👧‍👧 팀원
+|팀장|팀원|팀원|
+|:---:|:---:|:---:|
+|<img src="https://github.com/erika0915.png" width="160px"/>|<img src="https://github.com/HyejunKoo.png" width="160px"/>|<img src="https://github.com/haeunia.png" width="160px"/>|
+|[최수희](https://github.com/erika0915)|[구혜준](https://github.com/HyejunKoo)|[이하은](https://github.com/haeunia)|
+| 백엔드, AI | 백엔드, AI | 프론트엔드, AI | 
+
+</br>
+
+### 🕛 회의
 
 **매주 목요일 18:30 ~ 20:00**
 
@@ -15,9 +23,9 @@
 - 과제 제출 전 다같이 더블체크하기
 - 회의 면제권 인당 1회(진짜 어쩔 수 없을 때) >비대면회의 하는 방향으로.
 
- 
+ </br>
 
-### 소통
+### 💬 소통
 
 - 카톡 하루 이상 안 읽씹 금지
 - 카톡 읽으면 체크표시 남기기
@@ -25,7 +33,9 @@
 - 혼자 해결하기 힘들거나 고민점이 생기면 공유하기
 - 대면 회의가 원칙, 비대면 회의는 지양( 비대면 회의 시 discord 사용)
 
-### 마인드셋
+</br>
+
+### 🧘‍♀️ 마인드셋
 
 - 항상 긍정적인 마음으로 , 안되면 될 때까지 하기
 - 팀원 서로서로 존중하기
